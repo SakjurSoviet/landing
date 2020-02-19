@@ -1,250 +1,250 @@
 div.menu {
-    text-align: center
+	text-align: center
 }
 
 div.menu a {
-    color: #000000;
-    text-decoration: none;
-    display: inline-block;
-    width: 100px;
-    padding: 20px 40px;
-    font-weight: lighter
+	color: #000000;
+	text-decoration: none;
+	display: inline-block;
+	width: 100px;
+	padding: 20px 40px;
+	font-weight: lighter
 }
 
 div.menu a:hover {
-    background: #CCC
+	background: #CCC
 }
 
 div.header {
-    text-align: center;
-    background-image: url(../image/amazing.wow.png);
-    padding: 200px 0px;
-    color: #ffffff
+	text-align: center;
+	background-image: url(amazing.wow.png);
+	padding: 200px 0px;
+	color: #ffffff
 }
 
 div.header a {
-    text-decoration: none;
-    color: #000000;
-    background-color: #ffffff;
-    padding: 12px 24px;
-    border-radius: 10px
+	text-decoration: none;
+	color: #000000;
+	background-color: #ffffff;
+	padding: 12px 24px;
+	border-radius: 10px
 }
 
 div.header a:hover {
-    background-color: #b1b1b2
+	background-color: #b1b1b2
 }
 
 div.header p {
-    margin: 40px
+	margin: 40px
 }
 
 div.company h2 {
-    text-align: center
+	text-align: center
 }
 
 div.company img {
-    float: right;
-    width: 250px
+	float: right;
+	width: 250px
 }
 
 div.company {
-    width: 1000px;
-    margin: 0px auto
+	width: 1000px;
+	margin: 0px auto
 }
 
 div.company p {
-    font-size: 20px
+	font-size: 20px
 }
 
 div.member {
-    border: 2px #838383 solid;
-    display: inline-block;
-    width: 20%;
-    padding: 20px;
-    margin: 20px 10px;
-    text-align: left;
-    border-radius: 12px;
-    box-shadow: 0px 7px 10px #838383;
+	border: 2px #838383 solid;
+	display: inline-block;
+	width: 20%;
+	padding: 20px;
+	margin: 20px 10px;
+	text-align: left;
+	border-radius: 12px;
+	box-shadow: 0px 7px 10px #838383;
 }
 
 div.member img {
-    width: 100%;
-    border-radius: 6px
+	width: 100%;
+	border-radius: 6px
 }
 
 div.team {
-    text-align: center;
+	text-align: center;
 }
 
 .member .job {
-    color: #838383;
+	color: #838383;
 }
 
 .member a {
-    background-color: #055b73;
-    color: #ffffff;
-    text-align: center;
-    padding: 14px 0px;
-    display: inline-block;
-    width: 100%;
-    text-decoration: none;
-    border-radius: 10px
+	background-color: #055b73;
+	color: #ffffff;
+	text-align: center;
+	padding: 14px 0px;
+	display: inline-block;
+	width: 100%;
+	text-decoration: none;
+	border-radius: 10px
 }
 
 .prices {
-    text-align: center;
-    background-color: #5c5c5c;
-    color: #ffffff
+	text-align: center;
+	background-color: #5c5c5c;
+	color: #ffffff
 }
 
 .tariff h3 {
-    background-color: #000000;
-    margin: 0px
+	background-color: #000000;
+	margin: 0px
 }
 
 .best-tariff h3 {
-    background-color: #055b73;
-    margin: 0px
+	background-color: #055b73;
+	margin: 0px
 }
 
 .tariff li,
 .best-tariff li {
-    list-style-type: none;
-    background-color: #ffffff;
-    color: #000000;
-    padding: 16px 0px;
-    border-bottom: 1px solid #ddd
+	list-style-type: none;
+	background-color: #ffffff;
+	color: #000000;
+	padding: 16px 0px;
+	border-bottom: 1px solid #ddd
 }
 
 .tariff a {
-    text-decoration: none
+	text-decoration: none
 }
 
 .tariff,
 .best-tariff {
-    display: inline-block;
-    margin: 1%;
-    width: 30%;
-    vertical-align: middle;
-    text-align: center;
+	display: inline-block;
+	margin: 1%;
+	width: 30%;
+	vertical-align: middle;
+	text-align: center;
 }
 
 .best-tariff a,
 .tariff a {
-    background-color: #000000;
-    color: #ffffff;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 8px
+	background-color: #000000;
+	color: #ffffff;
+	padding: 10px 20px;
+	text-decoration: none;
+	border-radius: 8px
 }
 
 .best-tariff a:hover,
 .tariff a:hover {
-    background-color: #c9c9c9;
-    color: #000000
+	background-color: #c9c9c9;
+	color: #000000
 }
 
 .tariff ul {
-    margin: 0px;
-    padding: 0px
+	margin: 0px;
+	padding: 0px
 }
 
 .best-tariff ul {
-    margin: 0px;
-    padding: 0px
+	margin: 0px;
+	padding: 0px
 }
 
 .tariff p {
-    margin: 0px
+	margin: 0px
 }
 
 .best-tariff p {
-    margin: 0px
+	margin: 0px
 }
 
 .tariff li:last-child,
 .best-tariff li:last-child {
-    background-color: #f2f2f2;
-    padding: 24px 0px
+	background-color: #f2f2f2;
+	padding: 24px 0px
 }
 
 .best-tariff h3 {
-    padding: 48px 0px;
-    font-size: 24px
+	padding: 48px 0px;
+	font-size: 24px
 }
 
 .tariff h3 {
-    padding: 32px 0px;
-    font-size: 24px
+	padding: 32px 0px;
+	font-size: 24px
 }
 
 .price {
-    font-size: 30px;
-    font-weight: bold
+	font-size: 30px;
+	font-weight: bold
 }
 
 .period {
-    color: #838383
+	color: #838383
 }
 
 .contacts {
-    text-align: center;
-    background-color: #f1f1f1;
-    padding: 30px
+	text-align: center;
+	background-color: #f1f1f1;
+	padding: 30px
 }
 
 .contacts h2 {
-    margin: 0px
+	margin: 0px
 }
 
 .profile li {
-    text-align: left;
-    list-style-type: none;
-    background-repeat: no-repeat;
-    padding: 0px 0px 10px 20px;
-    background-size: 18px 18px
+	text-align: left;
+	list-style-type: none;
+	background-repeat: no-repeat;
+	padding: 0px 0px 10px 20px;
+	background-size: 18px 18px
 }
 
 .address {
-    background-image: url(address.png)
+	background-image: url(address.png)
 }
 
 .phone {
-    background-image: url(phone.png)
+	background-image: url(phone.png)
 }
 
 .email {
-    background-image: url(mail.png)
+	background-image: url(mail.png)
 }
 
 .contacts input {
-    width: 90%;
-    padding: 8px;
-    border-style: none
+	width: 90%;
+	padding: 8px;
+	border-style: none
 }
 
 .contacts button {
-    border-style: none;
-    padding: 8px;
-    border: none;
-    background-color: #000000;
-    color: #ffffff;
-    border-radius: 8px
+	border-style: none;
+	padding: 8px;
+	border: none;
+	background-color: #000000;
+	color: #ffffff;
+	border-radius: 8px
 }
 
 .contacts button:hover {
-    background-color: #d0d0d0;
-    color: #000000
+	background-color: #d0d0d0;
+	color: #000000
 }
 
 .copyright {
-    background-color: #000000;
-    color: #ffffff;
-    margin: 0px
+	background-color: #000000;
+	color: #ffffff;
+	margin: 0px
 }
 
 .copyright p {
-    color: #ffffff;
-    font-size: 18px;
-    margin: 0px
+	color: #ffffff;
+	font-size: 18px;
+	margin: 0px
 }
